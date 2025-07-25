@@ -5,6 +5,11 @@ __pycache__
 # MAC
 **/.DS_Store
 
+# Archivos csv creados
+data/CardioGoodFitness_tm195.csv
+data/CardioGoodFitness_tm498.csv
+data/CardioGoodFitness_tm798.csv
+
 # Distribution / packaging 
 .Python build/ 
 develop-eggs/ 
