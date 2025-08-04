@@ -17,19 +17,26 @@ Aprender a implementar modelos supervisados y no supervisados, redes neuronales 
 Cada carpeta tiene un nombre temático que resume el contenido principal. Te recomendamos seguir el orden numérico para llevar el curso paso a paso.
 
 ```bash
-📁 01_intro_ML/                  # Introducción al aprendizaje automático
-📁 02_regresion_lineal/         # Regresión lineal
-📁 03_regresion_regularizacion/ # Ridge y Lasso
-📁 04_regresion_logistica/      # Clasificación binaria y multiclase
-📁 05_pca/                       # Reducción de dimensionalidad (PCA y t-SNE)
-📁 06_clustering/               # Agrupamiento (KMeans, DBSCAN)
-📁 07_redes_neuronales/         # Perceptrones multicapa (MLP)
-📁 08_cnn_basicas/              # Redes convolucionales (CNN)
-📁 09_intro_bayesiana/          # Introducción a la inferencia bayesiana
-📁 10_inferencia_bayesiana/     # Modelado probabilístico con PyMC
-📁 11_proyecto_final/           # Proyecto integrador
-📁 data/                        # Datasets utilizados
-📁 recursos/                    # Lecturas, PDFs, enlaces útiles
+📁 00_intro_python/                # Introducción al languaje de programación python
+📁 01_intro_ML/                    # Introducción al aprendizaje automático
+📁 02_estadística_descriptiva/     # Repaso de estadística descriptiva
+📁 03_probabilidad/                # Repaso de probabilidad y distribuciones de probabilidad
+📁 04_regresion_lineal/            # Regresión lineal simple y múltiple
+📁 05_validacion_y_sobreajuste/    # Regularización con Ridge y Lasso
+📁 06_regresion_logistica/         # Regresión logística y clasificación binaria
+📁 07_arboles_de_decision/         # Árboles de decisión y métodos de ensamble
+📁 08_maquinas_soporte_vectorial/  # Máquinas de soporte vectorial
+📁 09_k_vecinos_cercanos/          # K Vecinos Cercanos
+📁 10_naive_bayes/                 # Modelo de Naive Bayes
+📁 11_pca/                         # Análisis de componentes principales (PCA)
+📁 12_clustering/                  # Agrupamiento (KMeans, Jerárquico)
+📁 13_redes_neuronales/            # Perceptrones multicapa (MLP)
+📁 14_cnn_basicas/                 # Redes convolucionales (CNN)
+📁 15_intro_bayesiana/             # Introducción a la inferencia bayesiana
+📁 16_inferencia_bayesiana/        # Modelado probabilístico con PyMC
+📁 17_proyecto_final/              # Proyecto integrador
+📁 data/                           # Datasets utilizados
+📁 recursos/                       # Lecturas, PDFs, enlaces útiles
 ```
 
 ---
