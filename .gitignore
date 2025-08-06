@@ -10,8 +10,9 @@ data/CardioGoodFitness_tm195.csv
 data/CardioGoodFitness_tm498.csv
 data/CardioGoodFitness_tm798.csv
 
-# Archivos dot creado
+# Archivos dot creados
 **/iris_dtree.dot
+**/diabeter_rtree.dot
 
 # Distribution / packaging 
 .Python build/ 
