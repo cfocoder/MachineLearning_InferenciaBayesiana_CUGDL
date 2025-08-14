@@ -1,6 +1,6 @@
 # 📘 Machine Learning e Inferencia Bayesiana
 
-Bienvenido/a al repositorio del curso **Machine Learning e Inferencia Bayesiana**, parte de la Licenciatura en Ciencia de Datos e Inteligencia Artificial de la Universidad de Guadalajara.
+Bienvenido/a al repositorio del curso **Machine Learning e Inferencia Bayesiana** y Matemáticas, parte de la Licenciatura en Ciencia de Datos e Inteligencia Artificial de la Universidad de Guadalajara.
 
 Aquí encontrarás todos los notebooks, recursos, ejemplos y actividades organizadas por temas. Cada carpeta contiene materiales que te guiarán paso a paso para dominar desde lo más esencial del aprendizaje automático hasta los fundamentos de la inferencia bayesiana.
 
