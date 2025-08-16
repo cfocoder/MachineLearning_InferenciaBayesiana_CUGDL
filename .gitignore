@@ -14,6 +14,9 @@ data/CardioGoodFitness_tm798.csv
 **/iris_dtree.dot
 **/diabetes_rtree.dot
 
+# Ejercicios
+01_intro_ML/01_ML_intro_exercise.ipynb
+
 # Distribution / packaging 
 .Python build/ 
 develop-eggs/ 
