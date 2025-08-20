@@ -13,6 +13,7 @@ data/CardioGoodFitness_tm798.csv
 # Archivos dot creados
 **/iris_dtree.dot
 **/diabetes_rtree.dot
+**/kosecha_dtree.dot
 
 # Ejercicios
 01_intro_ML/01_ML_intro_exercise.ipynb
