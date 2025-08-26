@@ -24,7 +24,7 @@ Cada carpeta tiene un nombre temático que resume el contenido principal. Te rec
 📁 04_regresion_lineal/            # Regresión lineal simple y múltiple
 📁 05_validacion_y_sobreajuste/    # Regularización con Ridge y Lasso
 📁 06_regresion_logistica/         # Regresión logística y clasificación binaria
-📁 07_arboles_de_decision/         # Árboles de decisión y métodos de ensamble
+📁 07_arboles_ensamble/            # Árboles de decisión y métodos de ensamble
 📁 08_maquinas_soporte_vectorial/  # Máquinas de soporte vectorial
 📁 09_k_vecinos_cercanos/          # K Vecinos Cercanos
 📁 10_naive_bayes/                 # Modelo de Naive Bayes
