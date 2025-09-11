@@ -18,7 +18,6 @@ data/CardioGoodFitness_tm798.csv
 # Ejercicios
 01_intro_ML/01_ML_intro_exercise.ipynb
 02_estadistica_descriptiva/02_estadistica_descriptiva_ejercicio.ipynb
-04_regresion_lineal/04_regresion_lineal_practica.ipynb
 
 # Distribution / packaging 
 .Python build/ 
